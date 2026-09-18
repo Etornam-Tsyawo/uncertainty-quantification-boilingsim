@@ -1,4 +1,4 @@
-# Uncertainty quantification for boiling nutrient retention
+# Uncertainty quantification for nutrient retention during boiling
 
 Parametric uncertainty analysis supporting the manuscript "A multiphysics computational framework for quantifying 
 nutrient retention in domestic cooking", Journal of Food Engineering (under review).
